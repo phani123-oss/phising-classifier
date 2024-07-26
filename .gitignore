@@ -1,5 +1,10 @@
+````
 venv
 .env
 build
-dist
-src.egg-info
+dist/
+src/
+.egg-info
+.ipynb_chechpoints/
+
+````
