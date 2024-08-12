@@ -24,3 +24,10 @@
         -- make sure delete all aws app runner,ecr,s3(empty,delete),security creadential acces key(deactivate,delete)
 
 Note : rd /s /q .git(to remove .git directory)
+git commits :
+        -- git init
+        -- git remote add origin https://github.com/your-username/your-repository.git
+        -- git add .
+        -- git commit -m "Initial commit"
+        -- git push -u origin main
+
